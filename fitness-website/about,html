@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Man Fitness | About</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>About Man Fitness</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about-us">
+            <h2>Who We Are</h2>
+            <p>At Man Fitness, our goal is to help individuals achieve their fitness and health objectives through personalized workout routines and structured diet plans.</p>
+        </section>
+
+        <section id="workout-details">
+            <h2>Workout Plans for Every Level</h2>
+            <p>We offer a range of muscle-building workout routines tailored for every fitness level. Whether you're a beginner, intermediate, or advanced athlete, our plans help you stay consistent and improve progressively.</p>
+        </section>
+
+        <section id="meal-details">
+            <h2>4000-Calorie Diet Plans</h2>
+            <p>Gaining weight doesn't have to be unhealthy. Our diet plans are crafted to give you the right mix of nutrients, proteins, and calories, ensuring that you gain muscle mass the healthy way.</p>
+        </section>
+
+        <section id="health-tips">
+            <h2>Health Tips and Resources</h2>
+            <p>Stay informed about hydration, sleep, injury prevention, and overall well-being. Explore tips that go beyond the gym to ensure a healthy lifestyle.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Man Fitness. All rights reserved.</p>
+    </footer>
+</body>
+</html>
